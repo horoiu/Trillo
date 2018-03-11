@@ -40,13 +40,13 @@ Grey dark 3: #999
 
 html {
     box-sizing: border-box;
+    font-size: 62.5%;  // 1rem = 10px (10px/16px = 62.5%)
 }
 
 *,
 ::before, 
 ::after {
     box-sizing: inherit;
-    font-size: 62.5%;  // 1rem = 10px (10px/16px = 62.5%)
 }
 
 body {
